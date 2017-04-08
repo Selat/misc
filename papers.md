@@ -8,4 +8,10 @@ This file lists the most interesting papers and articles that I've read.
 
 ## Algorithms
 
+### Graphs
+1. [On computing all north-east nearest neighbors in the L1 metric](http://www.sciencedirect.com/science/article/pii/0020019083900455)
+2. [Minimum mean cycle](http://www.columbia.edu/~cs2035/courses/ieor6614.S16/mmc.pdf)
+3. [Karp's minimum mean-weight cycle algorithm](https://courses.csail.mit.edu/6.046/fall01/handouts/ps9sol.pdf)
+
+### Hashing
 1. [Hopscotch Hashing, Maurice Herlihy, Nir Shavit and Moran Tzafrir](http://mcg.cs.tau.ac.il/papers/disc2008-hopscotch.pdf).
