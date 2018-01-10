@@ -15,3 +15,6 @@ This file lists the most interesting papers and articles that I've read.
 
 ### Hashing
 1. [Hopscotch Hashing, Maurice Herlihy, Nir Shavit and Moran Tzafrir](http://mcg.cs.tau.ac.il/papers/disc2008-hopscotch.pdf).
+
+### Deep learning
+1. [Robust Imitation of Diverse Behaviors](https://arxiv.org/abs/1707.02747)
