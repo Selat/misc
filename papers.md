@@ -6,6 +6,10 @@ This file lists the most interesting papers and articles that I've read.
 
 1. [Futexes Are Tricky, Ulrich Drepper](http://dept-info.labri.u-bordeaux.fr/~denis/Enseignement/2008-IR/Articles/01-futex.pdf).
 
+## Mathematics
+
+1. [Infinite versions of minesweeper are Turing complete](http://web.mat.bham.ac.uk/R.W.Kaye/minesw/infmsw.pdf).
+
 ## Algorithms
 
 ### Graphs
@@ -18,3 +22,4 @@ This file lists the most interesting papers and articles that I've read.
 
 ### Deep learning
 1. [Robust Imitation of Diverse Behaviors](https://arxiv.org/abs/1707.02747)
+2. [CycleGAN](https://arxiv.org/abs/1703.10593)
