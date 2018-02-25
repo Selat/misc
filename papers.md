@@ -9,6 +9,7 @@ This file lists the most interesting papers and articles that I've read.
 ## Mathematics
 
 1. [Infinite versions of minesweeper are Turing complete](http://web.mat.bham.ac.uk/R.W.Kaye/minesw/infmsw.pdf).
+2. [Objectivity, value judgment and theory of choice](https://www.andrew.cmu.edu/user/kk3n/philsciclass/kuhn.pdf)
 
 ## Algorithms
 
