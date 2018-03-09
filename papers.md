@@ -25,3 +25,4 @@ This file lists the most interesting papers and articles that I've read.
 1. [Robust Imitation of Diverse Behaviors](https://arxiv.org/abs/1707.02747)
 2. [CycleGAN](https://arxiv.org/abs/1703.10593)
 3. [Deep Image Prior](https://arxiv.org/abs/1711.10925)
+4. [Investigating Human Priors for Playing Video Games](https://rach0012.github.io/humanRL_website/)
